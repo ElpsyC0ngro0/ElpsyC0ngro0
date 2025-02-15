@@ -4,10 +4,10 @@
 yo I'm ElpsyC0ngro0, a passionate and enthusiast who loves to learn and play inside cyber security and ethical hacking.Feel free to ask me anything my connections are down there. !!HAPPY LEARNING!!
 
 ## What I'm Up To
-🚀 Currently diving deep into Cyber security and Ethical Hacking. 
-🌟 Exploring the intricacies of Capture the Flag(CTF), Pentesting, ##i will come back to update! 
-🤝 I had done some projects but didn't added it on github so i will update it soon.  
-💡 Future plans on bug bounty and cyber forensics.So i think i will be rich by 2030.Pray for me
+🚀 Currently diving deep into Cyber security and Ethical Hacking.  
+🌟 Exploring the intricacies of Capture the Flag(CTF), Pentesting, ##i will come back to update!    
+🤝 I had done some projects but didn't added it on github so i will update it soon.    
+💡 Future plans on bug bounty and cyber forensics.So i think i will be rich by 2030.Pray for me  
 
 ## My Toolbox
 Here's a glimpse of the technologies and tools I wield to bring ideas to life:
@@ -21,8 +21,8 @@ Here's a glimpse of the technologies and tools I wield to bring ideas to life:
 ## Highlighted Projects
 Here are some of the projects I've poured my heart and soul into:
 
-working on a DNS Cache poisoning Detection project for my college Degree
-Worked on a Chatbot as a museum guide for "Smart India hackathon"
+working on a DNS Cache poisoning Detection project for my college Degree.  
+Worked on a Chatbot as a museum guide for "Smart India hackathon".  
 
 
 ## Get in Touch
