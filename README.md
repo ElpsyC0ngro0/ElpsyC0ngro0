@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## Who Am I?
-yo I'm ElpsyC0ngro0, a passionate and enthusiast who loves to learn and play inside cyber security and ethical hacking.Feel free to ask me anything my connections are down there. !!HAPPY LEARNING!!
+yo I'm Sriram R, a passionate and enthusiast who loves to learn and play inside cyber security and ethical hacking.Feel free to ask me anything my connections are down there. !!HAPPY LEARNING!!
 
 ## What I'm Up To
 🚀 Currently diving deep into Cyber security and Ethical Hacking.  
