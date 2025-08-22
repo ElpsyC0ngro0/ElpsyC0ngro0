@@ -19,10 +19,10 @@ Here's a glimpse of the technologies and tools I wield to bring ideas to life:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![BurpSuite](https://img.shields.io/badge/-BurpSuite-FF6600?style=flat&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-0576B6?style=flat&logo=metasploit&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-008000?style=flat&logo=aircrack-ng&logoColor=white) ![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-8A2BE2?style=flat&logo=hack-the-box&logoColor=white) ![Hydra](https://img.shields.io/badge/-Hydra-FF4500?style=flat&logo=hydra&logoColor=white)
 
 ## Highlighted Projects
-Here are some of the projects I've poured my heart and soul into:
+Here are some of the projects I think i have done:  
 
-working on a DNS Cache poisoning Detection project for my college Degree.  
-Worked on a Chatbot as a museum guide for "Smart India hackathon".  
+Working on a DNS Cache poisoning Detection project for my college Degree.  
+Worked on a Chatbot for museums for "Smart India hackathon".  
 
 
 ## Get in Touch
