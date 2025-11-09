@@ -13,7 +13,7 @@ yo I'm Sriram R, a passionate and enthusiast who loves to learn and play inside 
 Here's a glimpse of the technologies and tools I wield to bring ideas to life:
 
 **Languages**:  
-![C]([https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white](https://en.wikipedia.org/wiki/C_(programming_language))) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://en.wikipedia.org/wiki/C_(programming_language)) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 **Tools**:  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![BurpSuite](https://img.shields.io/badge/-BurpSuite-FF6600?style=flat&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-0576B6?style=flat&logo=metasploit&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-008000?style=flat&logo=aircrack-ng&logoColor=white) ![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-8A2BE2?style=flat&logo=hack-the-box&logoColor=white) ![Hydra](https://img.shields.io/badge/-Hydra-FF4500?style=flat&logo=hydra&logoColor=white)
